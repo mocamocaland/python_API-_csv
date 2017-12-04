@@ -7,3 +7,6 @@ Rest APIの作成が目的
 
 参照先
 
+【3日でできる】はじめての Django 入門
+https://www.udemy.com/django-beginner/learn/v4/content
+
