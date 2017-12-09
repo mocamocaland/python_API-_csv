@@ -1,0 +1,4 @@
+env
+__pycache__
+myblogapp/db.sqlite3
+*.py[co]
